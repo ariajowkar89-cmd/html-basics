@@ -1,0 +1,62 @@
+body{
+  color: #000000;
+
+  background: url("terry/terry-fox-in-red-pvyl78icszh1o7su.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;}
+h1 {
+  text-shadow: 2px 2px #3f3f3f;
+  border-style:solid;
+  border-width:5px ;
+  border-color: black;
+  margin-left:710px;
+  margin-right:865px;
+  padding-left:6px;
+  padding-right:6px;
+  font-size: 50px;
+}
+h2 {
+  text-shadow: 0.5px 1px #000000;
+  border-width:3px ;
+  border-color:black ;
+}
+p{
+  text-shadow: 0.5px 1px #000000;
+  border-style: none;
+}
+li{
+  text-shadow: 0.5px 1px #000000;
+}
+h3 {
+  text-shadow: 0.5px 1px #000000;
+}
+a {
+  text-shadow: 0.5px 1px #000000;
+}
+#mylist{
+  border-style:solid;
+  border-width: 3px;
+  border-color: #000000;
+}
+img{
+  border-style: ridge;
+  border-width:15px ;
+  border-color: black;
+}
+table{
+  background-color: #747474;
+}
+th{
+  color: #000000;
+  border-style: solid;
+  border-color:black;
+}
+td{
+  color: #000000;
+  border-style: solid;
+  border-color:black;
+  
+}
+/*#wrapper{
+  width: 800px;
+}
