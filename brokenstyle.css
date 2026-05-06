@@ -1,0 +1,18 @@
+body{
+  background-color: aqua;
+
+  cursor:progress;
+
+  /*cursor: url(cursor.png), auto;*/
+
+
+}
+h1{
+  text-align: center;
+  font-size: 45px;
+  color: purple;
+  font-family: 'Poppins', sans-serif;
+}
+h1 {cursor: crosshair;}
+p { cursor: help;}
+img { cursor: zoom-in; }
